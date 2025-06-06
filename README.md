@@ -24,10 +24,13 @@ Este é um projeto em Python com interface gráfica usando **Tkinter**, que simu
 
 ## Dependencias
 
-pip install openpyxl
-pip install matplotlib pandas openpyxl
-pip install -r requirements.txt
-python simulador_fgc.py
+pip install openpyxl |
+
+pip install matplotlib pandas openpyxl |
+
+pip install -r requirements.txt |
+
+python simulador_fgc.py|
 
 
 
